@@ -1,0 +1,11 @@
+userId,userType,userInCell,profileInServ,queue,requestUnit
+1,mobile,1,1,0,5
+2,mobile,1,1,0,5
+3,mobile,1,1,0,5
+4,mobile,1,1,0,5
+5,car,1,1,0,5
+6,car,1,1,0,5
+7,notepad,1,1,0,10
+8,notepad,1,1,0,10
+9,mobile,1,1,0,5
+10,mobile,1,1,0,5
