@@ -14,11 +14,11 @@ xlrd 1.2.0
 matplotlib 3.2.1  
 
 ## Usage
-1.  
+1.  Performance mode
 ```
 python main.py globalCfg_single_obj.yml  
 ```
-2.  
+2.  Energy-efficient mode
 ```
 python main.py globalCfg_multi_obj.yml  
 ```
@@ -35,18 +35,18 @@ This project is licensed under the MIT License.
 
 ```
 @inproceedings{LiG21Memetic,  
->  author    = {Guo Li and  
->>               Ling Liu and  
->>               Zhengping Liang and  
->>               Xiaoliang Ma and  
->>               Zexuan Zhu},  
->  title     = {Memetic Algorithm Based on Community Detection for Energy-Efficient Service Migration Optimization in 5G Mobile Edge Computing},  
->  booktitle = {32st {IEEE} Annual International Symposium on Personal, Indoor and
->>               Mobile Radio Communications, {PIMRC} 2021, Helsinki, Finland,
->>               13-16 September, 2021},  
->  pages     = {1--7},  
->  publisher = {{IEEE}},  
->  year      = {2021}  
+  author    = {Guo Li and  
+               Ling Liu and  
+               Zhengping Liang and  
+               Xiaoliang Ma and  
+               Zexuan Zhu},  
+  title     = {Memetic Algorithm Based on Community Detection for Energy-Efficient Service Migration Optimization in 5G Mobile Edge Computing},  
+  booktitle = {32st {IEEE} Annual International Symposium on Personal, Indoor and
+               Mobile Radio Communications, {PIMRC} 2021, Helsinki, Finland,
+               13-16 September, 2021},  
+  pages     = {1--7},  
+  publisher = {{IEEE}},  
+  year      = {2021}  
 }  
 ```
 
