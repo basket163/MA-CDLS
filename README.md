@@ -16,3 +16,6 @@ matplotlib 3.2.1
 ## Usage
 1. python main.py globalCfg_single_obj.yml  
 2. python main.py globalCfg_multi_obj.yml  
+
+## Simulative Network
+![simulative network](data/SN2/Slot%201.png)
