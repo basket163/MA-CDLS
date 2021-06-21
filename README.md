@@ -18,4 +18,4 @@ matplotlib 3.2.1
 2. python main.py globalCfg_multi_obj.yml  
 
 ## Simulative Network
-![simulative network](data/SN2/Slot%201.png)
+<img src="data/SN2/Slot%201.png" width="800" /><br/>
