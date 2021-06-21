@@ -14,7 +14,7 @@ xlrd 1.2.0
 matplotlib 3.2.1  
 
 ## Usage
-1.  Performance mode
+1.  High-performance mode
 ```
 python main.py globalCfg_single_obj.yml  
 ```
