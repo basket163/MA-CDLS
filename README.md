@@ -19,3 +19,24 @@ matplotlib 3.2.1
 
 ## Simulative Network
 <img src="data/SN2/Slot%201.png" width="800" /><br/>
+
+## Reference
+G. Li, L. Liu, Z. Liang, X. Ma, Z. Zhu, "Memetic Algorithm Based on Community Detection for Energy-Efficient Service Migration Optimization in 5G Mobile Edge Computing", in 32st IEEE Annual International Symposium on Personal, Indoor and Mobile Radio Communications, PIMRC 2021, Helsinki, Finland, 13-16 September, 2021. (Accept)
+
+@inproceedings{LiG21Memetic,
+  author    = {Guo Li and
+               Ling Liu and
+               Zhengping Liang and
+               Xiaoliang Ma and
+               Zexuan Zhu},
+  title     = {Memetic Algorithm Based on Community Detection for Energy-Efficient Service Migration Optimization in 5G Mobile Edge Computing},
+  booktitle = {32st {IEEE} Annual International Symposium on Personal, Indoor and
+               Mobile Radio Communications, {PIMRC} 2021, Helsinki, Finland,
+               13-16 September, 2021},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+  year      = {2021}
+}
+
+## PIMRC 2021 Website
+[PIMRC 2021](https://www.oulu.fi/6gflagship/node/209031)
