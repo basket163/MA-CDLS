@@ -49,5 +49,7 @@ Our simulation experiment is based on the Wireless Network Simulator version 2.0
 }  
 ```
 
-## PIMRC 2021 Website
-<a href="https://www.oulu.fi/6gflagship/node/209031" target="_blank">PIMRC 2021</a>
+## PIMRC 2021 websites
+<a href="https://pimrc2021.ieee-pimrc.org/" target="_blank">IEEE PIMRC 2021</a>
+
+<a href="https://www.oulu.fi/6gflagship/node/209031" target="_blank">6G Flagship PIMRC 2021</a>
